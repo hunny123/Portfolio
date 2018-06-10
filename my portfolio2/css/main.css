@@ -64,7 +64,7 @@
     }
 
     .grey1 {
-      background-color: #F0F0F0;
+      background-color: #f0f0f0;
       padding: 80px 10px 30px 10px;
       font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 
@@ -161,13 +161,13 @@
     .socialbtn:hover {
       color: white !important;
     }
-    .heropage{
+    .heropage {
       background-image: url("https://source.unsplash.com/collection/2203878/1300x768"); 
       background-repeat: no-repeat; 
       background-size: cover;
       background-position: center center;
     }
-    .center{
+    .center {
       text-align:center;  
       margin-left:auto; 
       margin-right:auto;

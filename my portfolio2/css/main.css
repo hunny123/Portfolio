@@ -41,11 +41,12 @@
     }
 
     h4 {
-     
+     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;  
     }
 
     h5 {
       letter-spacing: 3px;
+      font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;  
     }
 
     .hr-light {

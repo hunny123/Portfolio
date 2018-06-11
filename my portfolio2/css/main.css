@@ -19,6 +19,7 @@
       header,
       .view {
         height: 100vh;
+         font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;   
       }
     }
 
